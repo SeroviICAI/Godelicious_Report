@@ -7,4 +7,4 @@ Unzip both data zip files inside the same directory as "main.py". You shall NOT 
 Note: This has been done in order to upload the same csv files that were used in this project, which were too big to be uploaded separately.
 
 ## Images
-![web screenshot](https://github.com/SeroviICAI/Godelicious_Report/blob/master/images/screenshot_godelicious.PNG)
+![alt text](https://github.com/SeroviICAI/Godelicious_Report/blob/master/images/screenshot_godelicious.PNG)
